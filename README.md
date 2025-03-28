@@ -21,7 +21,7 @@ This project is a lightweight backend service that simulates a Gen AI-powered da
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/mini-data-query-simulation.git
+git clone [https://github.com/kishan8354/mini-data-query-simulation]
 
 ### 2. Navigate to the Project Folder
 cd mini-data-query-simulation
